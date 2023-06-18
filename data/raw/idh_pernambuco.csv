@@ -1,0 +1,186 @@
+idx,municipio,idh
+1,Fernando de Noronha,0.788
+2,Recife,0.772
+3,Olinda,0.735
+4,Paulista,0.732
+5,Jaboatão dos Guararapes,0.717
+6,Petrolina,0.702
+7,Camaragibe,0.692
+8,Cabo de Santo Agostinho,0.686
+9,Carpina,0.680
+10,Abreu e Lima,0.679
+11,Caruaru,0.677
+12,Triunfo,0.670
+13,Salgueiro,0.669
+14,Arcoverde,0.667
+15,Igarassu,0.665
+16,Garanhuns,0.664
+17,Limoeiro,0.663
+18,Nazaré da Mata,0.662
+19,Serra Talhada,0.661
+20,Afogados da Ingazeira,0.657
+21,Ilha de Itamaracá,0.653
+22,São Lourenço da Mata,0.653
+23,Moreno,0.652
+24,Goiana,0.651
+25,Santa Cruz do Capibaribe,0.648
+26,Jatobá,0.645
+27,Belém do São Francisco,0.642
+28,Taquaritinga do Norte,0.641
+29,Vitória de Santo Antão,0.640
+30,Paudalho,0.639
+31,São José do Egito,0.635
+32,Surubim,0.635
+33,Gravatá,0.634
+34,Tuparetama,0.634
+35,Itapissuma,0.633
+36,Escada,0.632
+37,Belo Jardim,0.629
+38,Iati,0.628
+39,Floresta,0.626
+40,Cabrobó,0.623
+41,Petrolândia,0.623
+42,Ferreiros,0.622
+43,Palmares,0.622
+44,Ipojuca,0.619
+45,Timbaúba,0.618
+46,Toritama,0.618
+47,Cedro,0.615
+48,Rio Formoso,0.613
+49,Sertânia,0.613
+50,Santa Cruz da Baixa Verde,0.612
+51,Lajedo,0.611
+52,Orobó,0.610
+53,Orocó,0.610
+54,Pesqueira,0.610
+55,São José do Belmonte,0.610
+56,Catende,0.609
+57,Lagoa do Carro,0.609
+58,Macaparana,0.609
+59,Ingazeira,0.608
+60,São José da Coroa Grande,0.608
+61,Bezerros,0.606
+62,Camutanga,0.606
+63,Tabira,0.605
+64,Tracunhaém,0.605
+65,Verdejante,0.605
+66,Vicência,0.605
+67,Aliança,0.604
+68,Chã de Alegria,0.604
+69,Glória do Goitá,0.604
+70,Sanharó,0.603
+71,Araripina,0.602
+72,Bom Jardim,0.602
+73,Condado,0.602
+74,Gameleira,0.602
+75,Lagoa de Itaenga,0.602
+76,Ribeirão,0.602
+77,Feira Nova,0.601
+78,Moreilândia,0.600
+79,Alagoinha,0.599
+80,Chã Grande,0.599
+81,Parnamirim,0.599
+82,Terra Nova,0.599
+83,Altinho,0.598
+84,Iguaraci,0.598
+85,Pombos,0.598
+86,Lagoa Grande,0.597
+87,Sirinhaém,0.597
+88,Granito,0.595
+89,Itacuruba,0.595
+90,Serrita,0.595
+91,Trindade,0.595
+92,Custódia,0.595
+93,Buenos Aires,0.593
+94,Santa Terezinha,0.593
+95,São Bento do Una,0.593
+96,Tamandaré,0.593
+97,Agrestina,0.592
+98,Araçoiaba,0.592
+99,Cupira,0.592
+100,Itapetim,0.592
+101,Passira,0.592
+102,Venturosa,0.592
+103,Mirandiba,0.591
+104,São Caetano,0.591
+105,Santa Maria da Boa Vista,0.590
+106,Dormentes,0.589
+107,Afrânio,0.588
+108,Camocim de São Félix,0.588
+109,Barreiros,0.586
+110,Itaquitinga,0.586
+111,Sairé,0.585
+112,Solidão,0.585
+113,Carnaíba,0.583
+114,Vertentes,0.582
+115,Amaraji,0.580
+116,Ibirajuba,0.580
+117,Primavera,0.580
+118,Cachoeirinha,0.579
+119,Belém de Maria,0.578
+120,Machados,0.578
+121,Barra de Guabiraba,0.577
+122,Quixaba,0.577
+123,Exu,0.576
+124,Frei Miguelinho,0.576
+125,João Alfredo,0.576
+126,Itambé,0.575
+127,Jaqueira,0.575
+128,Jupi,0.575
+129,Brejinho,0.574
+130,Carnaubeira da Penha,0.573
+131,Tacaratu,0.573
+132,Angelim,0.573
+133,Cumaru,0.572
+134,Ouricuri,0.572
+135,Calumbi,0.572
+136,Riacho das Almas,0.570
+137,São João,0.570
+138,Panelas,0.569
+139,Cortês,0.568
+140,Casinhas,0.567
+141,Pedra,0.567
+142,Calçado,0.566
+143,Bodocó,0.565
+144,Bom Conselho,0.563
+145,Vertente do Lério,0.563
+146,Brejo da Madre de Deus,0.562
+147,Bonito,0.562
+148,Betânia,0.559
+149,Saloá,0.559
+150,Flores,0.556
+151,Joaquim Nabuco,0.554
+152,Tacaimbó,0.554
+153,Água Preta,0.553
+154,Ibimirim,0.552
+155,Quipapá,0.552
+156,Xexéu,0.552
+157,Lagoa dos Gatos,0.551
+158,Ipubi,0.550
+159,Jucati,0.550
+160,Capoeiras,0.549
+161,Palmeirina,0.549
+162,Santa Cruz,0.549
+163,São Vicente Férrer,0.601
+164,Santa Maria do Cambucá,0.548
+165,Brejão,0.547
+166,Terezinha,0.545
+167,Canhotinho,0.541
+168,Paranatama,0.537
+169,São Joaquim do Monte,0.537
+170,Correntes,0.536
+171,Maraial,0.534
+172,Salgadinho,0.534
+173,Santa Filomena,0.533
+174,Jataúba,0.530
+175,São Benedito do Sul,0.530
+176,Poção,0.528
+177,Buíque,0.527
+178,Águas Belas,0.526
+179,Lagoa do Ouro,0.525
+180,Inajá,0.523
+181,Caetés,0.522
+182,Tupanatinga,0.519
+183,Itaíba,0.510
+184,Jurema,0.509
+185,Manari,0.487
