@@ -1,59 +1,59 @@
-0 a 6 dias,7 a 27 dias,28 a 364 dias,1 a 4 anos
-349.0,83.0,38.0,
-7.0,2.0,2.0,
-25.0,6.0,,
-92.0,36.0,15.0,
-86.0,12.0,3.0,
-3.0,3.0,1.0,
-64.0,,,
-39.0,1.0,,
-15.0,5.0,,
-3.0,,,
-3.0,,,
-6.0,,,
-6.0,18.0,17.0,
-144.0,16.0,5.0,
-21.0,6.0,,
-6.0,1.0,1.0,
-21.0,3.0,1.0,
-65.0,5.0,2.0,
-31.0,1.0,1.0,
-128.0,63.0,41.0,1.0
-36.0,9.0,15.0,
-65.0,37.0,22.0,
-3.0,,,
-1.0,,,
-8.0,1.0,2.0,
-3.0,1.0,,1.0
-4.0,5.0,1.0,
-7.0,2.0,,
-1.0,8.0,1.0,
-3.0,4.0,52.0,48.0
-,,2.0,1.0
-,,1.0,
-,1.0,16.0,15.0
-,,8.0,1.0
-,,1.0,2.0
-,,10.0,14.0
-,,,1.0
-,,2.0,
-,,2.0,11.0
-3.0,3.0,8.0,2.0
-,,2.0,1.0
-5.0,15.0,75.0,62.0
-2.0,4.0,17.0,3.0
-,,3.0,
-,2.0,4.0,1.0
-,1.0,10.0,
-,,,8.0
-,1.0,2.0,
-,,1.0,2.0
-,,,1.0
-,,,15.0
-1.0,7.0,26.0,14.0
-,,2.0,5.0
-,,1.0,3.0
-2.0,,8.0,7.0
-,,1.0,3.0
-2.0,,25.0,9.0
-22.0,8.0,,
+,0 a 6 dias,7 a 27 dias,28 a 364 dias,1 a 4 anos
+..reduziveis atencao a mulher na gestacao,349.0,83.0,38.0,
+..sifilis congenita,7.0,2.0,2.0,
+..feto e recem-nasc afet compl placenta membranas,25.0,6.0,,
+..feto e recem-nascido afet afeccoes maternas,92.0,36.0,15.0,
+..feto e recem-nasc afet por compl matern gravid,86.0,12.0,3.0,
+..crescimento fetal retardado e desnutricao fetal,3.0,3.0,1.0,
+..transt gest curta duracao e peso baixo nascer,64.0,,,
+..sindrome da angustia respiratoria recem-nascido,39.0,1.0,,
+..hemorragia pulmonar originada periodo perinatal,15.0,5.0,,
+..hemorragia intracran n traum feto e recem-nasc,3.0,,,
+..isoimunizacao rh ou abo do feto e recem-nascido,3.0,,,
+..out doenc hemolit feto recem-nasc dev isoimuniz,6.0,,,
+..enterocolite necrotizante feto e recem-nascido,6.0,18.0,17.0,
+..reduz por adequada atencao a mulher no parto,144.0,16.0,5.0,
+..feto recem-nasc afet placent prev descol placen,21.0,6.0,,
+..feto e recem-nasc afet afeccoes cordao umbilic,6.0,1.0,1.0,
+..feto recem-nasc afet outr complicacoes parto,21.0,3.0,1.0,
+..hipoxia intrauterina e asfixia ao nascer,65.0,5.0,2.0,
+..sindr aspiracao neonat excet leite alim regurg,31.0,1.0,1.0,
+..reduziveis adequada atencao ao recem-nascido,128.0,63.0,41.0,1.0
+..transt respir cardiovasc especif period neonat,36.0,9.0,15.0,
+..infecc per neonatal exc src e hepat viral cong,65.0,37.0,22.0,
+..hemorragia neonatal exc intracraniana n traumat,3.0,,,
+..outras ictericias neonatais,1.0,,,
+..transt endocr metab transit esp feto recem-nasc,8.0,1.0,2.0,
+..outr transt hemotologicos feto e recem-nascido,3.0,1.0,,1.0
+..transt ap digest feto recem-nasc exc enter necr,4.0,5.0,1.0,
+..afecc compromet tegument regul termica feto rn,7.0,2.0,,
+"..outr transt orig periodo perinatal, exc p.",1.0,8.0,1.0,
+..reduz acoes diagnostico e tratamento adequado,3.0,4.0,52.0,48.0
+..meningite (exceto por haemophilus),,,2.0,1.0
+..infeccoes agudas das vias aereas superiores,,,1.0,
+..pneumonia,,1.0,16.0,15.0
+..outras infeccoes agudas vias aereas inferiores,,,8.0,1.0
+..algumas doencas cronicas vias aereas inferiores,,,1.0,2.0
+..outras doencas bacterianas,,,10.0,14.0
+..hipotireoidismo congenito,,,,1.0
+..deplecao de volume,,,2.0,
+..epilepsia e estado de mal epileptico,,,2.0,11.0
+..sindrome de down,3.0,3.0,8.0,2.0
+..infeccao do trato urinario localiz nao especif,,,2.0,1.0
+..reduz. acoes promocao vinc. acoes de atencao,5.0,15.0,75.0,62.0
+..doencas infecciosas intestinais,2.0,4.0,17.0,3.0
+..febres por arbovirus e febres hemorragic virais,,,3.0,
+"..doencas infecciosas, outras e nao especificadas",,2.0,4.0,1.0
+..desnutricao e outras deficiencias nutricionais,,1.0,10.0,
+..acidentes de transporte,,,,8.0
+..sindrome da morte subita na infancia,,1.0,2.0,
+..quedas,,,1.0,2.0
+"..exposicao ao fumo, ao fogo e as chamas",,,,1.0
+..afogamento e submersao acidentais,,,,15.0
+..outros riscos acidentais a respiracao,1.0,7.0,26.0,14.0
+..expos corr eletr radiacao temperat press extrem,,,2.0,5.0
+..agressoes,,,1.0,3.0
+..eventos (fatos) cuja intencao e indeterminada,2.0,,8.0,7.0
+..exposicao a forcas mecanicas inanimadas,,,1.0,3.0
+"..sintomas, sinais e achados anormais",2.0,,25.0,9.0
+..afeccoes orig periodo perinatal nao especific,22.0,8.0,,

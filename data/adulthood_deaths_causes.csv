@@ -1,0 +1,78 @@
+,5 a 9 anos,10 a 14 anos,15 a 19 anos,20 a 29 anos,30 a 39 anos,40 a 49 anos,50 a 59 anos,60 a 69 anos,70 a 74 anos
+..reduziveis pelas acoes de imunoprevencao,,,1.0,,3.0,10.0,8.0,11.0,1.0
+..tuberculose do sistema nervoso,,,1.0,,2.0,3.0,,1.0,1.0
+..tuberculose miliar,,,,,,4.0,5.0,3.0,
+..tetano,,,,,,,1.0,2.0,
+..rubeola,,,,,,1.0,,,
+..hepatite aguda b,,,,,1.0,2.0,2.0,5.0,
+..reduz acoes prom prev contr atenc doenc infec,13.0,7.0,28.0,173.0,320.0,548.0,737.0,1088.0,738.0
+..tuberculose respirat c/confirm bacter e histol,,,1.0,10.0,10.0,19.0,21.0,14.0,7.0
+..tuberculose vias respirat s/conf bacter histol,1.0,,2.0,28.0,36.0,45.0,49.0,40.0,10.0
+..tuberculose de outros orgaos,,,1.0,,1.0,2.0,1.0,,
+..sequelas de tuberculose,,,,1.0,3.0,3.0,6.0,4.0,3.0
+..doencas infecciosas intestinais,2.0,,1.0,3.0,3.0,13.0,14.0,34.0,27.0
+..doencas pelo virus da imunodeficiencia humana,,1.0,1.0,58.0,131.0,151.0,98.0,65.0,9.0
+..hepatites virais (exceto hepatite aguda b),1.0,,1.0,1.0,1.0,5.0,6.0,10.0,6.0
+"..sifilis, gonorreias e outras dst",,,,,1.0,1.0,2.0,,
+..doencas inflamatorias orgaos pelvicos femininos,,,,,,1.0,,,2.0
+..outras infeccoes,2.0,1.0,8.0,17.0,32.0,81.0,136.0,259.0,140.0
+..febre reumat aguda e doenc reumat cron coracao,,,3.0,11.0,12.0,26.0,26.0,29.0,5.0
+..infeccoes respirat incl pneumonia e influenza,4.0,3.0,8.0,28.0,53.0,121.0,235.0,369.0,284.0
+..infeccoes da pele e do tecido subcutaneo,1.0,,,3.0,10.0,25.0,32.0,64.0,55.0
+..outras doencas de notificacao compulsoria,1.0,2.0,1.0,6.0,14.0,25.0,51.0,82.0,47.0
+..infeccao do trato urinario localiz nao especif,1.0,,1.0,7.0,13.0,30.0,60.0,118.0,143.0
+..reduz acoes prom prev contr atenc doe n trans,14.0,20.0,37.0,230.0,781.0,2027.0,4058.0,6054.0,3771.0
+..neopl malig labio melanoma malig pele outr pele,,,,4.0,7.0,8.0,42.0,23.0,28.0
+..neopl malig figado vias biliares intra-hepatic,,,2.0,,5.0,30.0,57.0,108.0,81.0
+..neoplasia maligna do estomago,,,,3.0,23.0,62.0,115.0,154.0,86.0
+..neopl malig colon juncao retossigmoid reto anus,,,,7.0,23.0,58.0,120.0,160.0,98.0
+..neoplasia maligna boca faringe e laringe,,,,2.0,9.0,55.0,136.0,142.0,59.0
+..neoplasia maligna do esofago,,,,1.0,3.0,21.0,71.0,86.0,47.0
+..neoplasia maligna traqueia bronquios pulmoes,,,,,10.0,47.0,120.0,290.0,137.0
+..neoplasia maligna da mama,,,,6.0,53.0,141.0,230.0,181.0,87.0
+..neoplasia maligna do colo do utero,,,,13.0,48.0,80.0,82.0,73.0,29.0
+..neoplasia maligna dos testiculos,,,,3.0,4.0,2.0,3.0,,1.0
+..neoplasia maligna da glandula tireoide,,,,1.0,1.0,,5.0,12.0,10.0
+..doenca de hodgkin,,,,5.0,4.0,2.0,,6.0,
+..leucemia linfoide,4.0,6.0,6.0,8.0,4.0,5.0,7.0,13.0,4.0
+..leucemia mieloide,1.0,3.0,3.0,8.0,8.0,13.0,13.0,23.0,9.0
+..tireotoxicose hipotireoidismo e deficienc iodo,,,,,,2.0,5.0,2.0,1.0
+..diabetes mellitus,,,6.0,29.0,76.0,217.0,539.0,1110.0,711.0
+..obesidade,,,1.0,9.0,31.0,69.0,66.0,63.0,27.0
+..psicose alcoolica e outr transtornos do alcool,,,1.0,31.0,176.0,331.0,424.0,304.0,75.0
+..epilepsia e estado de mal epileptico,3.0,4.0,7.0,10.0,32.0,41.0,51.0,28.0,17.0
+..doencas hipertensivas exceto hipert secundaria,1.0,,,10.0,38.0,172.0,372.0,648.0,448.0
+..doencas isquemicas do coracao,1.0,1.0,2.0,15.0,70.0,272.0,651.0,1136.0,648.0
+..aterosclerose,,,,,,,2.0,6.0,
+..insuficiencia cardiaca,,,1.0,6.0,26.0,41.0,109.0,164.0,151.0
+..doencas cerebrovasculares,,5.0,1.0,34.0,68.0,242.0,562.0,857.0,653.0
+..doencas cronicas vias aereas infer e edema pulm,3.0,1.0,2.0,12.0,17.0,37.0,121.0,247.0,202.0
+..ulceras gastrica duodenal peptica gastrojejunal,1.0,,,,5.0,12.0,26.0,39.0,25.0
+..apendicite aguda,,,2.0,,8.0,3.0,1.0,7.0,3.0
+..doencas pulmonares devidas a agentes externos,,,2.0,6.0,4.0,14.0,23.0,36.0,35.0
+..hernias ileo paralitico e obstr intest s/hernia,,,1.0,2.0,6.0,22.0,46.0,61.0,40.0
+..transtornos da vesicula biliar e vias biliares,,,,3.0,15.0,15.0,36.0,35.0,44.0
+..insuficiencia renal cronica,,,,2.0,7.0,13.0,23.0,40.0,15.0
+..reduz acoes prev contr atencao causas matern,,1.0,7.0,39.0,56.0,16.0,,,
+..complicacoes gravidez parto e puerperio,,1.0,7.0,39.0,56.0,16.0,,,
+..reduz acoes prom prev atenc causas externas,27.0,54.0,714.0,1896.0,1537.0,1030.0,833.0,634.0,270.0
+..acidentes de transporte,11.0,15.0,109.0,331.0,336.0,261.0,205.0,114.0,47.0
+..quedas,,1.0,5.0,16.0,24.0,56.0,87.0,111.0,81.0
+..afogamento e submersao acidentais,6.0,5.0,26.0,30.0,33.0,44.0,27.0,14.0,6.0
+"..exposicao ao fumo, ao fogo e as chamas",,,,2.0,2.0,3.0,5.0,6.0,3.0
+..envenenamento acid exposicao substanc nocivas,,,3.0,15.0,8.0,3.0,2.0,,
+..lesoes autoprovocadas intencionalmente,,8.0,48.0,113.0,107.0,88.0,76.0,62.0,19.0
+..agressoes,1.0,13.0,479.0,1273.0,867.0,405.0,184.0,89.0,17.0
+..intervencoes legais e operacoes de guerra,,,,,2.0,2.0,,,
+..causas iatrogenicas,,,,,1.0,5.0,3.0,7.0,4.0
+..incid adv atos diagnost terap assoc disp medic,,,,,,1.0,,,
+..exposicao a forcas mecanicas inanimadas,,1.0,2.0,4.0,2.0,5.0,6.0,6.0,
+..exposicao a forcas mecanicas animadas,,,,,,1.0,2.0,,
+..outros riscos acidentais a respiracao,2.0,3.0,7.0,7.0,14.0,15.0,32.0,55.0,27.0
+..expos corr eletr radiacao temperat press extrem,2.0,4.0,10.0,21.0,32.0,16.0,23.0,12.0,4.0
+..contato com fonte de calor e substanc quentes,,,,,,,,3.0,
+..contato com animais e plantas venenosas,,,,1.0,1.0,,4.0,8.0,1.0
+..exposicao as forcas da natureza,,,,,1.0,,1.0,,
+..exposicao acid outros fatores e aos nao especif,,,1.0,4.0,7.0,4.0,9.0,4.0,3.0
+..efeit adv drog medic e subst biolog terapeutic,,,,1.0,,,,1.0,
+..eventos cuja intencao e indeterminada,5.0,4.0,24.0,78.0,100.0,121.0,167.0,142.0,58.0
